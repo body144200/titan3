@@ -1,0 +1,5 @@
+{
+  "name": "TitanChat",
+  "description": "A feature-rich chat application combining the best of Messenger and Telegram, with smart avatars and dynamic theming.",
+  "requestFramePermissions": []
+}
